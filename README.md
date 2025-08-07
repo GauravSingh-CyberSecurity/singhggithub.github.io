@@ -81,8 +81,8 @@ The portfolio is fully responsive with breakpoints at:
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/GauravSingh-CyberSecurity/GauravSingh-CyberSecurity.github.io.git
-cd GauravSingh-CyberSecurity.github.io
+git clone https://github.com/GauravSingh-CyberSecurity/singhggithub.github.io.git
+cd singhggithub.github.io
 
 # Install dependencies
 bundle install
