@@ -16,7 +16,7 @@ permalink: /about/
 
 ## Professional Background
 
-Hi, I'm Gaurav Singh (aka @singhggithub). I'm a Cybersecurity Engineer specializing in Vulnerability Assessment and Penetration Testing (VAPT), with hands-on experience in exploiting OWASP Top 10, Web, API, Android misconfigurations, and business logic flaws across enterprise applications.
+Hi, I'm Gaurav Singh. I'm a Cybersecurity Engineer specializing in Vulnerability Assessment and Penetration Testing (VAPT), with hands-on experience in exploiting OWASP Top 10, Web, API, Android misconfigurations, and business logic flaws across enterprise applications.
 
 Currently working as an Information Security Engineer at Harrier Information Systems PVT LTD, I'm proficient in discovering vulnerabilities related to authentication, authorization, injection flaws, business logic bypasses, server misconfigurations, and API-specific issues.
 
