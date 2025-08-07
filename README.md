@@ -4,7 +4,7 @@ A professional cybersecurity portfolio website showcasing my expertise in vulner
 
 ## 🚀 Live Site
 
-Visit the live portfolio at: [https://singhggithub.github.io/cybersecurity-portfolio/](https://singhggithub.github.io/cybersecurity-portfolio/)
+Visit the live portfolio at: [https://GauravSingh-CyberSecurity.github.io/](https://GauravSingh-CyberSecurity.github.io/)
 
 ## 📋 Features
 
@@ -81,8 +81,8 @@ The portfolio is fully responsive with breakpoints at:
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/singhggithub/cybersecurity-portfolio.git
-cd cybersecurity-portfolio
+git clone https://github.com/GauravSingh-CyberSecurity/GauravSingh-CyberSecurity.github.io.git
+cd GauravSingh-CyberSecurity.github.io
 
 # Install dependencies
 bundle install
@@ -187,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Email**: gs.cyber.red@gmail.com
 - **LinkedIn**: [Connect with me](https://linkedin.com/in/your-linkedin-username)
-- **GitHub**: [singhggithub](https://github.com/singhggithub)
+- **GitHub**: [GauravSingh-CyberSecurity](https://github.com/GauravSingh-CyberSecurity)
 
 ## 🙏 Acknowledgments
 

@@ -29,13 +29,13 @@ defaults:
       layout: "project"
 
 # Social media usernames
-github_username: singhggithub
+github_username: GauravSingh-CyberSecurity
 linkedin_username: gaurav-singh-cybersecurity
 twitter_username: your-twitter-username
 
 # Variables
 baseurl: ""
-url: "https://singhggithub.github.io"
+url: "https://GauravSingh-CyberSecurity.github.io"
 
 # Collections
 collections:
